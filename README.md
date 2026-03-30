@@ -26,10 +26,9 @@
 
 ## 📊 Estatísticas
 
-<div>
-  <a href="https://github.com/edMatias">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=edMatias&show_icons=true&theme=dark"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edMatias&layout=compact&theme=dark"/>
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=edMatias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edMatias&layout=compact&theme=tokyonight"/>
 </div>
 
 ---
