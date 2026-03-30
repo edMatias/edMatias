@@ -19,9 +19,15 @@
 ---
 
 ## 📌 Projetos em destaque
-🔹 Marketplace Projeto (em desenvolvimento)  
-🔹 Portfólio (em breve)  
 
+### 🛒 Marketplace Projeto  
+🔗 [Ver código](https://github.com/edMatias/marketplace-projeto)  
+🌐 (Em breve online)
+
+---
+
+### 💼 Portfólio  
+🚧 Em desenvolvimento
 ---
 
 ## 📊 Estatísticas
