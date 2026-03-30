@@ -21,9 +21,8 @@
 ## 📌 Projetos em destaque
 
 ### 🛒 Marketplace Projeto  
-🔗 [Ver código](https://github.com/edMatias/marketplace-projeto)  
-🌐 (Em breve online)
-
+🌐 https://marketplace-projeto.vercel.app/  
+🔗 https://github.com/edMatias/marketplace-projeto
 ---
 
 ### 💼 Portfólio  
