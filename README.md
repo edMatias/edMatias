@@ -27,9 +27,7 @@
 ## 📊 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=edMatias&show_icons=true&theme=tokyonight"/>
-  <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=edMatias&layout=compact&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=edMatias&theme=tokyonight" />
 </p>
 ---
 
